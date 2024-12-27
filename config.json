@@ -1,0 +1,11 @@
+{
+  "botToken": "your-telegram-bot-token",
+  "logsChatId": "your-logs-chat-id",
+  "domain": "https://your-app-url.render.com",
+  "port": 80,
+  "admins": ["admin1-id", "admin2-id"],
+  "images": {
+    "safeguardSuccess": "images/success/safeguard.jpg",
+    "safeguardVerification": "images/verification/safeguard.jpg"
+  }
+}
